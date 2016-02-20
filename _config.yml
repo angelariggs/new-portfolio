@@ -1,0 +1,36 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Angela Wilson Riggs
+email: riggs.ang@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Angela Riggs is a developer, cachinnator, and lifelong learner.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://angelariggs.github.io # the base hostname & protocol for your site
+twitter_username: angelariggs_
+github_username:  angelariggs
+linkedin_username: angelariggs
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: angelariggs
+
+# Build settings
+markdown: kramdown
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
