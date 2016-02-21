@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-<div class="add-pad">
+<div>
   <div class='portfolio-grid'>
     <div class='project' id='osuDiv'>
       <h2 class='project-title'><a href='/portfolio/osu'>OSU-NEP</a></h2>

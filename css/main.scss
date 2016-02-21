@@ -27,15 +27,6 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-// Monokai theme colors
-$mono-pink:     #F92672;
-$mono-green:  #A6E22E;
-$mono-orange: #FD971F;
-$mono-yellow: #FFE792;
-$mono-blue: #66D9EF;
-
-
-
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -56,7 +47,8 @@ $mono-blue: #66D9EF;
         "base",
         "layout",
         "syntax-highlighting",
+        "typography",
+        "variables",
         "nav",
-        "footer",
         "homepage"
 ;

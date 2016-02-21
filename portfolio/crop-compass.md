@@ -1,11 +1,11 @@
 ---
-layout: portfolio
+layout: page
 title: Crop Compass
 permalink: /portfolio/cropcompass/
 comments: true
 ---
 
-<div class='add-pad'>
+<div>
 	<p><a class='res-link' href='http://beta.cropcompass.org/' target='blank'>Launch Crop Compass website</a></p>
 
 	<h2 class='project-sec-header'>About Crop Compass</h2>

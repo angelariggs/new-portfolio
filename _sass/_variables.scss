@@ -4,10 +4,6 @@
 //
 
 //Colors
-$blue: #1E90FF;
-$coral: #FF7F50;
-$gold: #FFD700;
-$pink: #FF69B4;
 
 // Grays
 $black: #000;
@@ -16,13 +12,6 @@ $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
-
-// Font stacks
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Domine|Vast+Shadow|Playfair+Display:400,400italic);
-$serif: "Domine", serif;  
-$sans-serif: "Montserrat", sans-serif;
-$display: "Vast Shadow", cursive;
-$quote-font: "Playfair Display", serif;
 
 // Mobile breakpoints
 @mixin mobile {
